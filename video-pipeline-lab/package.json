@@ -1,0 +1,20 @@
+{
+  "name": "video-pipeline-lab",
+  "version": "1.0.0",
+  "description": "This project implements a video pipeline using Kafka for stream processing, S3 for storage, and `ffmpeg` for video conversion into multiple formats. Using TypeScript and Node.js, this pipeline enables downloading, processing, and saving video files in various formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.10",
+    "fluent-ffmpeg": "^2.1.3",
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.27"
+  }
+}
