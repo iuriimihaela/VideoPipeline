@@ -28,8 +28,8 @@ To run this project on your local machine, follow these steps:
 Clone the repository to your desired directory:
 
 ```bash
-git clone <REPO-URL>
-cd <project-directory>
+git clone <https://github.com/iuriimihaela/VideoPipeline.git>
+cd <video-pipeline-lab>
 ```
 ### 2. Install Dependencies
 Install all necessary dependencies using npm or yarn:
